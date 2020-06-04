@@ -1,0 +1,14 @@
+-3.901257476532063
+
+/home/steags/Documents/Master/M1/COMPLEX/stats.py:82: RuntimeWarning: divide by zero encountered in log
+  print(np.log(moy)-np.log(lastt)/np.log(n)-np.log(lastn))
+
+-4.423115116746346
+-4.647057218260217
+-4.4121603367826046
+-4.205100426377864
+-4.151644569022269
+-3.789574629030384
+-3.675819368610448
+-3.456873425867284
+
